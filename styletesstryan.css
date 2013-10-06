@@ -1,0 +1,54 @@
+
+body {font-family: 'Oxygen', sans-serif;}
+
+.buttonhello{
+  display:inline-block;
+  width:125px;
+  height:125px;
+  border-radius:62.5px;
+  font-size:17px;color:#fff;
+  line-height:125px;
+  text-align:center;
+  background:#78E3E8;
+  text-decoration:none;
+  margin: 10px;
+}
+
+.buttongoodbye{
+  display:inline-block;
+  width:50px;
+  height:50px;
+  border-radius:25px;
+  font-size:12px;color:#fff;
+  line-height:50px;
+  text-align:center;
+  background:#78E3E8;
+  text-decoration:none;
+}
+
+#hi:hover span {display:none}
+#hi:hover:before {content:"I'm Tess!"}
+
+#gb:hover span {display:none}
+#gb:hover:before {content:"Miss you!!"}
+
+li {display: inline;}
+
+.welcome {width: 960px;
+text-align: center;
+padding-top: 200px;
+margin-left: 35px;}
+
+.goodbye {width:960px;
+text-align: right;
+margin-left: 100px;}
+
+a {text-align: center}
+
+a.buttonhello:hover {background: #94E899}
+
+a.buttongoodbye:hover {background: #94E899}
+
+#goodbyep {width: 600px; margin: 50px;}
+iframe {margin-left: 80px}
+
