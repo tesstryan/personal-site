@@ -52,11 +52,16 @@ a.buttongoodbye:hover {background: #94E899}
 #goodbyep {width: 600px; margin: 50px;}
 iframe {margin-left: 90px}
 
-.myblog { width: 600px;
-padding-left: 40px;
-}
 
-.myblog h1 {color: orange}
+.myblog h1 {color: #EBB1B1;
+font-size: 20px;
+float: left;
+padding-left: 50px;
+padding-right: 50px}
+
+.myblog p {width: 800px;
+padding-top: 50px;
+padding-left: 275px}
 
 .about {text-indent: 40px}
 
