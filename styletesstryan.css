@@ -7,7 +7,7 @@ body {font-family: 'Oxygen', sans-serif;}
   height:125px;
   border-radius:62.5px;
   font-size:17px;color:#fff;
-  line-height:125px;
+  vertical-align: top;
   text-align:center;
   background:#78E3E8;
   text-decoration:none;
@@ -25,12 +25,16 @@ body {font-family: 'Oxygen', sans-serif;}
   background:#78E3E8;
   text-decoration:none;
 }
+.bspace {margin-top: 50px;}
+#mspace {margin-top: 40px}
 
-#hi:hover span {display:none}
-#hi:hover:before {content:"I'm Tess!"}
+#hi #off {display:none}
+#hi:hover #on {display: none}
+#hi:hover #off {display: inline}
 
-#gb:hover span {display:none}
-#gb:hover:before {content:"Miss you!!"}
+#gb #off {display: none}
+#gb:hover #on {display:none}
+#gb:hover #off {display: inline}
 
 li {display: inline;}
 
