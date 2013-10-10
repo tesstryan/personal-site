@@ -60,6 +60,11 @@ text-decoration: none}
 #goodbyep {width: 600px; margin: 50px;}
 iframe {margin-left: 90px}
 
+.intro {padding-left: 50px;}
+
+#me {width: 350px;
+float: left;
+padding-right: 50px}
 
 .myblog h1 {color: #EBB1B1;
 font-size: 20px;
@@ -73,6 +78,5 @@ padding-left: 275px}
 
 
 
-#me {width: 350px;
-margin-left: 40px ;}
+
 
