@@ -25,6 +25,7 @@ body {font-family: 'Oxygen', sans-serif;}
   background:#78E3E8;
   text-decoration:none;
 }
+
 .bspace {margin-top: 50px;}
 #mspace {margin-top: 40px}
 
@@ -45,13 +46,16 @@ margin-left: 35px;}
 
 .goodbye {width:960px;
 text-align: right;
-margin-left: 100px;}
+margin-left: 100px;
+text-decoration: none}
 
 a {text-align: center}
 
-a.buttonhello:hover {background: #94E899}
+a.buttonhello:hover {background: #94E899;
+text-decoration:none;}
 
-a.buttongoodbye:hover {background: #94E899}
+a.buttongoodbye:hover {background: #94E899;
+text-decoration: none}
 
 #goodbyep {width: 600px; margin: 50px;}
 iframe {margin-left: 90px}
