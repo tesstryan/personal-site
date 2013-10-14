@@ -57,7 +57,8 @@ text-decoration:none;}
 a.buttongoodbye:hover {background: #94E899;
 text-decoration: none}
 
-p {font-size: 14px}
+p {font-size: 14px;
+padding-right: 30px;}
 
 #goodbyep {width: 600px; margin: 50px;}
 iframe {margin-left: 90px}
