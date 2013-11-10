@@ -39,14 +39,14 @@ body {font-family: 'Oxygen', sans-serif;}
 
 li {display: inline;}
 
-.welcome {width: 960px;
+.welcome {
 text-align: center;
 padding-top: 200px;
-margin-left: 35px;}
+}
 
-.goodbye {width:960px;
-text-align: right;
-margin-left: 100px;
+.goodbye {
+text-align: center;
+margin-right: 50px;
 text-decoration: none}
 
 a {text-align: center}
